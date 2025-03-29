@@ -46,8 +46,9 @@ This is my personal log of progress through TryHackMe as I learn ethical hacking
 
 I'm actively tracking my room-by-room journey through TryHackMe to learn cybersecurity.
 
-🛠️ View detailed notes, completed rooms, and tools I've learned here:  
-👉 [Progress Tracker](https://github.com/ethandler/tryhackme-progress-tracker/blob/main/PROGRESS.md)
+🛠️ View Progress Tracker
+🗂️Track individual room completions, tools learned, and notes in [progress.md](https://github.com/Ethandler/tryhackme-progress/blob/main/progress.md)
+
 
 ---
 

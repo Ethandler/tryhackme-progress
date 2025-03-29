@@ -39,5 +39,6 @@ Started the first room of the Pre-Security path. Felt like this was exactly wher
 
 ---
 
-## README Link:
-[View the GitHub README](https://github.com/ethandlr/tryhackme-progress-tracker/blob/main/README.md)
+### Return?
+📌 **Back to Main README**
+[Click here to return to the main repo](https://github.com/Ethandler/tryhackme-progress/blob/main/README.md)

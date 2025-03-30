@@ -26,7 +26,7 @@ The focus wasn’t on tools yet, more on mindset and mapping the battlefield.
 
 ---
 
-## Room 2: Deffensive Security Intro
+## Room 2: Defensive Security Intro
 **Status:** Completed  
 **Date:** March 29, 2025
 

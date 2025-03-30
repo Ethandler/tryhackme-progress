@@ -1,4 +1,4 @@
-# TryHackMe Progress Tracker – Ethan Blankenship (SolHacker)
+# TryHackMe Journal Entries – Ethan Blankenship (SolHacker)
 
 ## Room 1: Offensive Security Intro  
 **Status:** Completed  
@@ -60,6 +60,68 @@ The real power move here was seeing how DFIR breaks down and maps the attack lik
 It felt less like learning a tool and more like learning how to think like a responder. 
 And the SIEM sim? Honestly kinda fun.
  
+---
+
+## Room 3: [Room Name]
+
+**Status:** [Not Started / In Progress / Completed]
+**Date:** [Month Day, Year]
+
+### Room Summary:
+
+### Tools Encountered:
+
+### Tools Mastered:
+
+### Journal:
+
+---
+
+## Room 🔢: [Room Name]
+
+**Status:** [Not Started / In Progress / Completed]  
+**Date:** [Month Day, Year]
+
+### Room Summary:
+
+### Tools Encountered:
+
+### Tools Mastered:
+
+### Journal:
+
+
+---
+
+## Room 🔢: [Room Name]
+
+**Status:** [Not Started / In Progress / Completed]  
+**Date:** [Month Day, Year]
+
+### Room Summary:
+
+### Tools Encountered:
+
+### Tools Mastered:
+
+### Journal:
+
+
+---
+
+## Room 🔢: [Room Name]
+
+**Status:** [Not Started / In Progress / Completed]  
+**Date:** [Month Day, Year]
+
+### Room Summary:
+
+### Tools Encountered:
+
+### Tools Mastered:
+
+### Journal:
+
 ---
 
 ### Return?
